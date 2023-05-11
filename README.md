@@ -1,13 +1,11 @@
-Tip Time - Solution Code
-=================================
-
-Solution code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
+Tip Calculator App
+==================
 
 
 Introduction
 ------------
-The Tip Time app contains various UI elements for calculating a tip,
-teaching about user input, and State in Compose.
+The Tip Calculator app contains various UI elements for calculating a tip,
+user input, and State in Compose.
 
 
 Pre-requisites
@@ -19,6 +17,6 @@ Pre-requisites
 Getting Started
 ---------------
 1. Install Android Studio, if you don't already have it.
-2. Download the sample.
+2. Download the project.
 3. Import the sample into Android Studio.
-4. Build and run the sample.
+4. Build and run the project.
